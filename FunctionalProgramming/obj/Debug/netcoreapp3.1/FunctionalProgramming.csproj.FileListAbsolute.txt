@@ -1,0 +1,11 @@
+D:\DLS-RFP-278\Project\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.exe
+D:\DLS-RFP-278\Project\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.deps.json
+D:\DLS-RFP-278\Project\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.runtimeconfig.json
+D:\DLS-RFP-278\Project\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.runtimeconfig.dev.json
+D:\DLS-RFP-278\Project\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.dll
+D:\DLS-RFP-278\Project\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.pdb
+D:\DLS-RFP-278\Project\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.csprojAssemblyReference.cache
+D:\DLS-RFP-278\Project\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.AssemblyInfoInputs.cache
+D:\DLS-RFP-278\Project\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.AssemblyInfo.cs
+D:\DLS-RFP-278\Project\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.dll
+D:\DLS-RFP-278\Project\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.pdb
